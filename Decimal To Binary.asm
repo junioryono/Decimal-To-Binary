@@ -8,9 +8,9 @@
 	
 	# LAB
 	str1: .asciiz "Input a number in decimal form:  "
-    str2: .asciiz "The number "
-    str3: .asciiz " in binary is: "
-    str4: .asciiz "Cannot be a negative input.\n"
+    	str2: .asciiz "The number "
+    	str3: .asciiz " in binary is: "
+   	 str4: .asciiz "Cannot be a negative input.\n"
     	
 .text
 	# HEADER
